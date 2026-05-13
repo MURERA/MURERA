@@ -1,19 +1,30 @@
 # Hi there 👋
 
-I'm a Fullstack & Machine Learning Developer.
+I'm Muhammad Reza Rahman, a Fullstack & Machine Learning Developer passionate about AI, backend systems, and modern web applications.
+
+🚀 Currently focusing on:
+- Machine Learning Deployment
+- Backend Development
+- Fullstack Web Development
 
 ## 🚀 Tech Stack
-- Python
-- React
-- FastAPI
-- Django REST
-- JavaScript
-- MySQL
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ## 📌 Featured Projects
-- Depression Detection via Text
-- CIFAR10 ONNX FastAPI Deployment
-- Fullstack Capstone Project
+
+### 🧠 Depression Detection via Text
+NLP-based machine learning project for detecting depression indications from text.
+
+### 🚀 CIFAR10 ONNX FastAPI Deployment
+Computer vision model deployment using FastAPI and ONNX.
+
+### 🍽️ Capstone Project 
+Fullstack application with backend integration and role-based features.
 
 ## 📊 GitHub Stats
 
